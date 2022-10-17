@@ -1,8 +1,6 @@
 # TVoutColor_2013
 TVoutcolor is a work I made about 10 years ago, but I still get inquiries, so I will upload the source code and other information to GitHub.
 
-[![TVoutColor_2013](https://user-images.githubusercontent.com/115850093/195992344-bcfd0d0c-f82c-4e6f-9f9c-58bd37e16beb.jpg)](https://youtu.be/ysMUZaUsUp0)
-
 [![TVoutColor_2013_W400](https://user-images.githubusercontent.com/115850093/196180642-b91a3d41-69b6-4764-96e9-210bbce51454.jpg)](https://youtu.be/ysMUZaUsUp0)
 
 ## Photos
