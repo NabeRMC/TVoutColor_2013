@@ -7,6 +7,6 @@ TVoutcolor is almost 10 years old, but I still get inquiries, so I will upload t
 [Google Photos/Arduino TVoutColor NTSC](https://photos.app.goo.gl/aseyYi4QsXeoAjxZA)
 
 ## LTspice
-
+![LTspice](./NTSC13typeA.jpg)
 
 
