@@ -4,8 +4,15 @@ TVoutcolor is a work I made about 10 years ago, but I still get inquiries, so I 
 [![TVoutColor_2013](https://user-images.githubusercontent.com/115850093/195992344-bcfd0d0c-f82c-4e6f-9f9c-58bd37e16beb.jpg)](https://youtu.be/ysMUZaUsUp0)
 
 ## Photos
-[  Google Photos/Arduino TVoutColor NTSC](https://photos.app.goo.gl/aseyYi4QsXeoAjxZA)
+[Google Photos/Arduino TVoutColor NTSC](https://photos.app.goo.gl/aseyYi4QsXeoAjxZA)
 
-##SPICE Simulation
+## SPICE Simulation
 [![NTSC13typeA_S25](https://user-images.githubusercontent.com/115850093/196097672-c0ff4de6-6d8f-4bb3-8cbc-d50aaaab33cf.jpg)](https://photos.google.com/share/AF1QipNKngOdXD0U9HmfIjQ1FxSkZpxus5Ys4eR3AuklIOX84B2JDc8nB6VQrYJ8avZvxw/photo/AF1QipNzQzuTsvCPuxb29nLvRJkSF4cTsnEUStQ91A-S?key=SU80NkVCRDdyV1l6Z0h4TlRSREN0bnFXcC1yel9R)
 
+## NTSC
+NTSC信号は白黒テレビとの後方互換性を維持しつつ、ひとつの信号ラインに水平同期信号、垂直同期信号、カラー信号を載せるという先人達の知識と知恵と工夫が盛り込まれた素晴らしい規格だと思います。
+# Tab
+  1
+  2
+  3
+  
