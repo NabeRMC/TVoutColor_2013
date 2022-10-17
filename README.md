@@ -15,18 +15,9 @@ NTSC信号は
 半世紀以上前のアナログ技術で、ひとつの信号ラインに水平同期信号、垂直同期信号、カラー信号を載せるという
 先人達の知識と知恵と工夫が盛り込まれた素晴らしい規格だと思います。
 
-    # Tab
-    class Hoge
-        def hoge
-            print 'hoge'
-        end
-    end
-
----
-
-    # Space
-    class Hoge
-      def hoge
-        print 'hoge'
-      end
-    en
+# Tab
+    1
+   
+# Space
+    1
+    
