@@ -6,6 +6,6 @@ TVoutcolor is a work I made about 10 years ago, but I still get inquiries, so I 
 ## Photos
 [  Google Photos/Arduino TVoutColor NTSC](https://photos.app.goo.gl/aseyYi4QsXeoAjxZA)
 
-## SPICE Simulation
+##SPICE Simulation
 [![NTSC13typeA_S25](https://user-images.githubusercontent.com/115850093/196097672-c0ff4de6-6d8f-4bb3-8cbc-d50aaaab33cf.jpg)](https://photos.google.com/share/AF1QipNKngOdXD0U9HmfIjQ1FxSkZpxus5Ys4eR3AuklIOX84B2JDc8nB6VQrYJ8avZvxw/photo/AF1QipNzQzuTsvCPuxb29nLvRJkSF4cTsnEUStQ91A-S?key=SU80NkVCRDdyV1l6Z0h4TlRSREN0bnFXcC1yel9R)
 
