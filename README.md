@@ -19,3 +19,10 @@ NTSC信号は
     1
    
 ~~~
+## Related Videos
+
+### TVoutGrayscale_2009
+[![NTSChachune_W400](https://user-images.githubusercontent.com/115850093/196305450-937f4a46-a238-4344-86c5-ed77d6d42a9f.jpg)](https://www.youtube.com/watch?v=dZVFQIFUhwA)
+
+### VGAout_2012
+[![VGAout_W400](https://user-images.githubusercontent.com/115850093/196305558-ef569827-9617-4a98-97a7-248a2af67528.jpg)](https://youtu.be/eGhsN9GWh48)
