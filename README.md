@@ -15,12 +15,9 @@ NTSC信号は
 半世紀以上前のアナログ技術で、ひとつの信号ラインに水平同期信号、垂直同期信号、カラー信号を載せるという
 先人達の知識と知恵と工夫が盛り込まれた素晴らしい規格だと思います。
 
-~~~
-    [映像信号 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E4%BF%A1%E5%8F%B7)
-   
-~~~
-
-  [映像信号 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E4%BF%A1%E5%8F%B7)
+* technical information on the internet
+    * [映像信号 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E4%BF%A1%E5%8F%B7)
+  
 ## Related Videos
 
 ### TVoutGrayscale_2009
