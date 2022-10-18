@@ -20,6 +20,7 @@ NTSC信号は
     * [映像信号 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E4%BF%A1%E5%8F%B7)
     * [コンポジットビデオ - Wikipedia](https://en.wikipedia.org/wiki/Composite_video)
     * [NTSCにおける4フィールドシーケンス](http://hir.ciao.jp/ve/category_ntsc.htm)
+      ** 「．．カラーバーストはラインごとに位相が反転している。」 
     * [NTSC - Wikipedia](https://en.wikipedia.org/wiki/NTSC)
     * [Colorburst - Wikipedia](https://en.wikipedia.org/wiki/Colorburst)
   
