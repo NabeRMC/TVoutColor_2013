@@ -19,6 +19,8 @@ NTSC信号は
     [映像信号 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E4%BF%A1%E5%8F%B7)
    
 ~~~
+
+  [映像信号 - Wikipedia](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F%E4%BF%A1%E5%8F%B7)
 ## Related Videos
 
 ### TVoutGrayscale_2009
