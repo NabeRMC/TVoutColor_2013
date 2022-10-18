@@ -2,7 +2,7 @@
 TVoutcolor is a work I made about 10 years ago, but I still get inquiries, so I will upload the source code and other information to GitHub. 
 <br/>
 
-Arduino UNOに搭載のマイコンのATmega328Pには1クロック動作のポート出力命令はありますのででXTALを14.31818MHzに変えれば/4の3.579545MHzカラーバースト信号は作れます。色を変えるにはバースト信号との位相を変えるのですが、90度毎にしかデータを変えられません。そこでサンプリング定理の出番となります。
+Arduino UNOに搭載のマイコンのATmega328Pには1クロック動作のポート出力命令はありますのでXTALを14.31818MHzに変えれば/4の3.579545MHzカラーバースト信号は作れます。色を変えるにはバースト信号との位相を変えるのですが、90度毎にしかデータを変えられません。そこでサンプリング定理の出番となります。
 
 ### YouTube
 [![TVoutColor_2013_W400](https://user-images.githubusercontent.com/115850093/196180642-b91a3d41-69b6-4764-96e9-210bbce51454.jpg)](https://youtu.be/ysMUZaUsUp0)
